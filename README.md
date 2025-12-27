@@ -1,3 +1,4 @@
+![Views](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FLogicAziz%2FLLM-Lifecycle-Practicum&label=Project%20Views&labelColor=%232d3436&countColor=%230984e3&style=flat-square)
 # 🚀 ChatGPT Prompt Engineering Applications
 
 This repository contains professional implementations developed during the **DeepLearning.AI** "Prompt Engineering for Developers" course by Andrew Ng.
